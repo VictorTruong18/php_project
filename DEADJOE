@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Tue Nov 16 16:25:41 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/var/www/html/projet/.git/MERGE_MSG
+
+*** File '/var/www/html/projet/.git/MERGE_MSG'
+Merge branch 'master' of github.com:MinaroShikuchi/PhpProject
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Tue Nov 16 16:33:55 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/var/www/html/projet/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

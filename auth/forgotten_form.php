@@ -1,0 +1,1 @@
+<h1> Mot de passe oublié </h1><p> Veuillez remplir le formulaire ci-dessous pour ré-envoyer un mot de passe temporaire </p><form action="forgotten.php" method="post"><p>Adresse mail<br /> <input type="text" name="mail" /></p><p><input type="submit" value="Envoyer"></p></form>
